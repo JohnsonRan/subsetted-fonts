@@ -1,0 +1,9 @@
+{
+  "name": "subsetted-fonts",
+  "version": "1.0.4",
+  "description": "Subsetted MiSans, Sarasa Gothic and PingFang",
+  "keywords": ["misans", "pingfang","sarasa gothic","webfont"],
+  "author": "JohnsonRan",
+  "repository": "github:JohnsonRan/subsetted-fonts",
+  "license": "MIT"
+}
